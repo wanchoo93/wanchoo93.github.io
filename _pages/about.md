@@ -23,10 +23,10 @@ Dual Objective
 
 Research Interest
 -----
-I am interested in developing explainable deep learning solutions, in particular deep neural networks, natural language processing, robotics and computer vision. My ambition is to bring the dream of intelligent and autonomous systems closer to reality. Multi-disciplinary research....We study ideas from statistical physics, optimization, computer vision, control theory and motion-planning....Applications include the analysis of social media language and cell phone sensor data to better understand the drivers of physical and mental well-being...use the structure of language to help design computer vision systems, for example, Situation Recognition (demo), for modeling how objects are interacting in events using semantic roles. Sometimes, I like to work on pure NLP and I have recently released a new dataset for multi-turn information seeking dialogs from documents, QuAC. With AI systems getting better and being more broadly applied, its important to think about how the models might treat people, in similar circumstances, differently.
+I am interested in developing explainable deep learning solutions, in particular deep neural networks, natural language processing, robotics and computer vision. My ambition is to bring the dream of intelligent and autonomous systems closer to reality. Multi-disciplinary research.... study ideas from statistical physics, optimization, computer vision, control theory and motion-planning....Applications include the analysis of social media language and cell phone sensor data to better understand the drivers of physical and mental well-being...use the structure of language to help design computer vision systems, for example, Situation Recognition (demo), for modeling how objects are interacting in events using semantic roles. Sometimes, I like to work on pure NLP and I have recently released a new dataset for multi-turn information seeking dialogs from documents. With AI systems getting better and being more broadly applied, its important to think about how the models might treat people, in similar circumstances, differently.
 
 Affiliations
 -----
 1. [World Well Being Project](http://www.wwbp.org/about.html)
-2. 
+2. IEEE
 
