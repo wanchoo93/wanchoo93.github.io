@@ -14,9 +14,12 @@ Prior to enrolling in the Master's program at Penn I had worked with several of 
 
 Research Interest
 -----
-I am interested in developing explainable deep learning solutions, in particular deep neural networks, natural language processing, robotics and computer vision. My ambition is to bring the dream of intelligent and autonomous systems closer to reality. Multi-disciplinary research.... study ideas from statistical physics, optimization, computer vision, control theory and motion-planning....Applications include the analysis of social media language and cell phone sensor data to better understand the drivers of physical and mental well-being...use the structure of language to help design computer vision systems, for example, Situation Recognition (demo), for modeling how objects are interacting in events using semantic roles. Sometimes, I like to work on pure NLP and I have recently released a new dataset for multi-turn information seeking dialogs from documents. With AI systems getting better and being more broadly applied, its important to think about how the models might treat people, in similar circumstances, differently.
+I am interested in developing explainable deep learning solutions, in particular natural language processing, robotics and computer vision. My ambition is to bring the dream of intelligent and autonomous systems closer to reality by leveraging multi-disciplinary research to study ideas from statistical physics, optimization, computer vision, control theory and motion-planning.
 
-There is more about my ongoing Master's Thesis [here]().
+I am intrigued by those challenging research problems whose applications revolve around physical and mental well-being of the society. In my ongoing master’s thesis I aim to compare the health and lifestyle of people before and after the pandemic hit the world with special focus on risks associated with cardio-vascular disease using Natural Language Processing. More details about my ongoing Master's Thesis can be found [here](https://wanchoo93.github.io/teaching/2016-spring-teaching-3).
+
+I would love to develop systems that belong at the intersection of natural language and computer vision. For instance, creating a framework that can intelligently comprehend and interpret the driving environment visuals, recognize hazardous or abnormal scene and forecast the outcome in order to respond with utmost efficiency. This is equivalent to envisioning a smart machine utilizing image recognition and semantics to prevent locomotive crashes in real time.
+
 
 Affiliations
 -----
