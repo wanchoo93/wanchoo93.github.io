@@ -17,12 +17,12 @@ Education
 Work experience
 ======
 * **Summer 2021:** Research Assistant
-  * **Location:** Graduate Research, David Rittenhouse Laboratory, University of Pennsylvania, USA
+  * **Location:** David Rittenhouse Laboratory, University of Pennsylvania, USA
   * **Duties included:** Create autonomous, unbiased and reliable deep learning algorithm that can detect Covid19 and other medical conditions such as Ovarian Cancer, Pancreatic Cancer, Influenza, etc., by using human body odors.
   * **Supervisor:** Dr. [A.T Charlie Johnson](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/charlie-johnson), Rebecca W. Bushnell Professor of Physics and Astronomy at the Penn School of Arts & Sciences, and Dr. [Lyle Ungar](https://www.cis.upenn.edu/~ungar/), Professor in Computer and Information Science at Penn Engineering and Psychology at the School of Arts & Sciences.
 
 * **Spring 2021:** Teaching Assistant
-  * **Location:** Undergraduate course, Detkin Lab, Electrical Engineering Department, University of Pennsylvania, USA
+  * **Location:** Detkin Lab, Electrical Engineering Department, University of Pennsylvania, USA
   * **Duties included:** Perform every experiment from the curriculim, record results as benchmarks for grading and guide students to execute the experiments smoothly in the lab.
   * **Supervisor:** Dr. [Marc Miskin](https://www.seas.upenn.edu/~mmiskin/)
 
