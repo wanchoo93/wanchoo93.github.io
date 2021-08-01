@@ -29,26 +29,26 @@ Work experience
 * **2017 - 2020:** Data Scientist
   * **Location:** Accenture, India
   * **Duties included:**
-    ** Designed a Rest API that interprets human textual query, extracts relevant parameters (such as brand name, business metric, intent etc.) and pulls relevant data from websites (such as twitter, quid), journals and databases
-    ** Engendered an AI tool in Python to intelligently classify ledger account descriptions into pre-defined categories. Leveraged topic modelling, inverse document frequency and latent Dirichlet allocation to predict category of expense
-    ** Created an AI tool in Python to classify Human Resources data for different organizations into a standard role taxonomy for cross industry clients.
-    ** Leveraged deep neural network and gradient boosted tree models to generate univariate sales forecast. Over 4.5 Million product-store level real time forecasts were generated from the recommendation engine for a US retail giant.
+    * Designed a Rest API that interprets human textual query, extracts relevant parameters (such as brand name, business metric, intent etc.) and pulls relevant data from websites (such as twitter, quid), journals and databases
+    * Engendered an AI tool in Python to intelligently classify ledger account descriptions into pre-defined categories. Leveraged topic modelling, inverse document frequency and latent Dirichlet allocation to predict category of expense
+    * Created an AI tool in Python to classify Human Resources data for different organizations into a standard role taxonomy for cross industry clients.
+    * Leveraged deep neural network and gradient boosted tree models to generate univariate sales forecast. Over 4.5 Million product-store level real time forecasts were generated from the recommendation engine for a US retail giant.
  
  * **2015 - 2017:** Data Scientist
   * **Location:** Evalueserve, India
   * **Duties included:**
-    ** Designed transformation strategy for a leading power utilities firm to minimize transmission losses and deploy PV capacity
-    ** Co-developed go-to-market for an engineering software player. Estimated short, mid and long-term opportunity across the power, nuclear and renewable energy value chain. Developed a market attractiveness versus company readiness matrix to formulate the ideal go-to-market strategy
+    * Designed transformation strategy for a leading power utilities firm to minimize transmission losses and deploy PV capacity
+    * Co-developed go-to-market for an engineering software player. Estimated short, mid and long-term opportunity across the power, nuclear and renewable energy value chain. Developed a market attractiveness versus company readiness matrix to formulate the ideal go-to-market strategy
   
   
 Skills
 ======
 * **Programming:**
-  ** REST API, Python (PyTorch, Keras, TensorFlow, SKLearn, Scipy, NLTK, Python stack dev.), R, SQL/Relational DBMS, Git
+  * REST API, Python (PyTorch, Keras, TensorFlow, SKLearn, Scipy, NLTK, Python stack dev.), R, SQL/Relational DBMS, Git
 * **Analytics & ML:**
-  ** Natural Language Processing, Network Analysis, Regression, Markov Chain, Deep Neural Networks, Gradient Boosted Trees, Random Forest, Decision Trees
+  * Natural Language Processing, Network Analysis, Regression, Markov Chain, Deep Neural Networks, Gradient Boosted Trees, Random Forest, Decision Trees
 * **NLP and BI Tools:**
-  ** Google Dialogue Flow, Rasa, RShiny, MS Excel
+  * Google Dialogue Flow, Rasa, RShiny, MS Excel
 
 Publications
 ======
@@ -68,4 +68,4 @@ Service and leadership
 ======
 * Placement Manager for Electrical Engineering Department, Punjab Engineering College (2014-2015)
 * President of Les Amis (30-year-old, student managed, non-profit organization) from January – June 2015
-  ** Successfully led and managed a 200 membered team to conduct a literary and art event for underprivileged children
+  * Successfully led and managed a 200 membered team to conduct a literary and art event for underprivileged children
