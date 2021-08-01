@@ -22,10 +22,12 @@ Dual Objective
 
 Deep Diving in the research objectives
 -----
-1. Temporal Shifts:
+1. **Temporal Shifts:**
+
 In my research, I suspect that social isolation during the pandemic must have modified any former, trends in eating habits and fitness, frequency and variety of drug abuse, frequency and intensity of physical activities and frequency of smoking and vaping. I wish to uncover these shifts in trends for each broader group by comparing discussions happened in pre-pandemic cluster of subreddits with during pandemic cluster of subreddits. I also assess the influence of discussions happening in one subreddit over other subreddits using temporal topical correlation. 
 
-2. Drug/Smoking Transition:
+2. **Drug/Smoking/Alcohol Transition:**
+
     1. Prospective mortality studies conducted in the 1960s and 1970s showed a clear increase in coronary heart disease mortality with an increase in the number of
 cigarettes smoked per day, regardless of the actual number (Doll and Peto 1976, USDHHS 1983).
 
