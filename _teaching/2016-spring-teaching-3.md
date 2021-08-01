@@ -4,7 +4,7 @@ collection: teaching
 type: "Thesis"
 permalink: /teaching/2016-spring-teaching-3
 venue: "School of Engineering and Applied Science, University of Pennsylvania"
-date: 2021-01-15
+date: 2021-06-15
 location: "Philadelphia, Pennsylvania"
 ---
 
@@ -27,12 +27,14 @@ other subreddits using temporal topical correlation.
 
 2. i. Prospective mortality studies conducted in the 1960s and 1970s showed a clear increase in coronary heart disease mortality with an increase in the number of
 cigarettes smoked per day, regardless of the actual number (Doll and Peto 1976, USDHHS 1983).
+
 ii. (Klatsky 1996) concludes alcohol consumption of three or more drinks per day raises blood pressure and levels of triglycerides that are important cardiovascular risk factors.
+
 iii. (Li et al. 2020) concludes that patients with a history of cardiovascular metabolic diseases may face a greater risk of developing into the severe condition upon contraction of Covid-19.
+
 iv. (Leung et al., 2020; Russo et al., 2020; Zhang et al., 2020), provide evidence that vaping or consumption of tobacco increases the risk of infection and progression of Covid-19.
 
-From (i) and (ii) we infer that smoking and alcohol increase the risk of cardio-vascular disease and mortality. From (iii) and (iv) we infer that having a history of cardiovascular disease or consuming tobacco, deteriorates the condition of patient upon contraction
-of Covid-19 and can be fatal. Thus, it is important to analyze whether the isolation during Covid-19 increased the consumption tobacco, alcohol and drugs or were people successful in quitting.
+From (i) and (ii) we infer that smoking and alcohol increase the risk of cardio-vascular disease and mortality. From (iii) and (iv) we infer that having a history of cardiovascular disease or consuming tobacco, deteriorates the condition of patient upon contraction of Covid-19 and can be fatal. Thus, it is important to analyze whether the isolation during Covid-19 increased the consumption tobacco, alcohol and drugs or were people successful in quitting.
 
 Execution/Procedure
 -----
