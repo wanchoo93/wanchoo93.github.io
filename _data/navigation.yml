@@ -9,5 +9,5 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
   
-  - title: "Awards and Honors"
-    url: /markdown/
+  - title: "CV"
+    url: /cv/
