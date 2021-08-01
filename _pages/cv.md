@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Karan Wanchoo Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -33,12 +33,16 @@ Work experience
     * Engendered an AI tool in Python to intelligently classify ledger account descriptions into pre-defined categories. Leveraged topic modelling, inverse document frequency and latent Dirichlet allocation to predict category of expense
     * Created an AI tool in Python to classify Human Resources data for different organizations into a standard role taxonomy for cross industry clients.
     * Leveraged deep neural network and gradient boosted tree models to generate univariate sales forecast. Over 4.5 Million product-store level real time forecasts were generated from the recommendation engine for a US retail giant
+    * Marketing Mix Modelling using panel fixed effects and random effects regression, for a major US telecom giant
+    * Marketing-mix analysis, assessing the effectiveness of key marketing activities and identifying opportunities to grow by reallocating media investments for different product groups across various marketing channels
  
 * **2015 - 2017:** Data Scientist
   * **Location:** Evalueserve, India
   * **Duties included:**
     * Designed transformation strategy for a leading power utilities firm to minimize transmission losses and deploy PV capacity
     * Co-developed go-to-market for an engineering software player. Estimated short, mid and long-term opportunity across the power, nuclear and renewable energy value chain. Developed a market attractiveness versus company readiness matrix to formulate the ideal go-to-market strategy
+    * Quantified the offline and online impact from conventional, digital and social media channels on enterprise sales by designing an actionable marketing mix across regions and products yielding respective Marketing RoI
+    * Subscriber base segmentation and customer profiling for an Asia-Pacific Telecom giant to identify most valuable segment of customers to target with tailored telecom plans
   
   
 Skills
@@ -63,6 +67,12 @@ Awards and Honors
 * Director’s Recognition Award (July 2019)
 * Certificate of Excellence (COE) for contribution as Placement Manager (2015)
 * Certificate of Appreciation (COA) for contribution to the IEEE student chapter (2013)
+
+Research & Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Service and leadership
 ======
