@@ -32,9 +32,9 @@ Work experience
     * Designed a Rest API that interprets human textual query, extracts relevant parameters (such as brand name, business metric, intent etc.) and pulls relevant data from websites (such as twitter, quid), journals and databases
     * Engendered an AI tool in Python to intelligently classify ledger account descriptions into pre-defined categories. Leveraged topic modelling, inverse document frequency and latent Dirichlet allocation to predict category of expense
     * Created an AI tool in Python to classify Human Resources data for different organizations into a standard role taxonomy for cross industry clients.
-    * Leveraged deep neural network and gradient boosted tree models to generate univariate sales forecast. Over 4.5 Million product-store level real time forecasts were generated from the recommendation engine for a US retail giant.
+    * Leveraged deep neural network and gradient boosted tree models to generate univariate sales forecast. Over 4.5 Million product-store level real time forecasts were generated from the recommendation engine for a US retail giant
  
- * **2015 - 2017:** Data Scientist
+* **2015 - 2017:** Data Scientist
   * **Location:** Evalueserve, India
   * **Duties included:**
     * Designed transformation strategy for a leading power utilities firm to minimize transmission losses and deploy PV capacity
