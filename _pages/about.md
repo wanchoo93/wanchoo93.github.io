@@ -28,5 +28,7 @@ I am interested in developing explainable deep learning solutions, in particular
 Affiliations
 -----
 1. [World Well Being Project](http://www.wwbp.org/about.html)
-2. IEEE
+2. IEEE Robotics and Automation Society
+3. IEEE Computational Intelligence Society
+4. IEEE Engineering in Medicine and Biology Society
 
