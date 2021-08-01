@@ -50,7 +50,7 @@ Skills
 * **Programming:**
   * REST API, Python (PyTorch, Keras, TensorFlow, SKLearn, Scipy, NLTK, Python stack dev.), R, SQL/Relational DBMS, Git
 * **Analytics & ML:**
-  * Natural Language Processing, Network Analysis, Regression, Markov Chain, Deep Neural Networks, Gradient Boosted Trees, Random Forest, Decision Trees
+  * Natural Language Processing, Network Analysis, Regression, Markov Chain, Deep Neural Networks, Gradient Boosted Trees, Random Forest, Decision Trees, Topic Modelling, SVM, K-means, KNN, PCA, SVD, CNN, Transfer Learning, Image recognition
 * **NLP and BI Tools:**
   * Google Dialogue Flow, Rasa, RShiny, MS Excel
 
