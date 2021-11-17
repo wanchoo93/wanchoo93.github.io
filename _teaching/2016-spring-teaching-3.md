@@ -12,18 +12,18 @@ My research is being supervised by Dr. [Lyle Ungar](https://www.cis.upenn.edu/~u
 
 In my ongoing master's thesis I aim to compare the health and lifestyle of people before and after the pandemic hit the world.
 This involves studying the impact of public events (Covid-19) on the behavioral, social, and environmental determinants of health with special focus on risks associated 
-with cardio-vascular disease by leveraging diverse text data (Title of discussion, content of discussion and comments on discussion) 
+with cardio-vascular disease (CVD) by leveraging diverse text data (Title of discussion, content of discussion and comments on discussion) 
 available on different groups on Reddit (known as Subreddits).
 
 Dual Objective
 -----
-1. Uncover temporal shifts in language markers across 4 broad groups: (Drugs, Diet, Physical Activities & Smoking)
-2. Analyze whether the pandemic motivated people to quit smoking, drugs and alcohol or financial and emotional stress resulted in an overdose
+1. Track and analyze the user engagement across CVD related subreddits (Drugs, Diet, Physical Activities & Smoking) from 2019 to 2021
+2. Track and analyze how COVID-19 affect language associated with the behavioral, social, and environmental determinants of CVD related health behaviors
 
 Deep Diving in the research objectives
 -----
 1. **Temporal Shifts:**
-    In my research, I suspect that social isolation during the pandemic must have modified any former, trends in eating habits and fitness, frequency and variety of drug abuse, frequency and intensity of physical activities and frequency of smoking and vaping. I wish to uncover these shifts in trends for each broader group by comparing discussions happened in pre-pandemic cluster of subreddits with during pandemic cluster of subreddits. I also assess the influence of discussions happening in one subreddit over other subreddits using temporal topical correlation. 
+    In my research, I seek answer that social isolation during the pandemic must have modified any former, trends in eating habits and fitness, frequency and variety of drug abuse, frequency and intensity of physical activities and frequency of smoking and vaping. I wish to uncover these shifts in trends for each broader group by comparing discussions happened in pre-pandemic cluster of subreddits with during pandemic cluster of subreddits. I also assess the influence of discussions happening in one subreddit over other subreddits using temporal topical correlation. 
 
 2. **Drug/Smoking/Alcohol Transition:**
     1. Prospective mortality studies conducted in the 1960s and 1970s showed a clear increase in coronary heart disease mortality with an increase in the number of
