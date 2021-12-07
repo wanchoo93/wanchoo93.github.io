@@ -1,5 +1,5 @@
 ---
-title: "Master's Thesis"
+title: "Master's Thesis & Research Assistantship"
 collection: teaching
 type: "Thesis"
 permalink: /teaching/2016-spring-teaching-3
