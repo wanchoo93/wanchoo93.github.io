@@ -9,3 +9,4 @@ venue: 'preparing for submission'
 ---
 
 **Since the paper is on the verge of completion, a copy of the paper can be made available only upon request. My email can be found on the left navigation pane.**
+You can read more about the project [here](https://wanchoo93.github.io/teaching/2016-spring-teaching-3)
