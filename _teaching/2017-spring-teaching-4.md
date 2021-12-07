@@ -1,5 +1,5 @@
 ---
-title: "Research Assistant"
+title: "Research Assistantship"
 collection: teaching
 type: "Graduate Research"
 permalink: /teaching/2017-spring-teaching-4
