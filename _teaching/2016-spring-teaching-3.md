@@ -17,7 +17,7 @@ available on different groups on Reddit (known as Subreddits).
 
 Dual Objective
 -----
-1. Track and analyze the user engagement across CVD related subreddits (Drugs, Diet, Physical Activities & Smoking) from 2019 to 2021
+1. Track and analyze the user engagement across CVD related subreddits (Diet, Physical Activities, Substance Use & Smoking) from January, 2019 to December, 2020
 2. Track and analyze how COVID-19 affect language associated with the behavioral, social, and environmental determinants of CVD related health behaviors
 
 Deep Diving in the research objectives
@@ -35,13 +35,13 @@ cigarettes smoked per day, regardless of the actual number (Doll and Peto 1976, 
 
     4. (Leung et al., 2020; Russo et al., 2020; Zhang et al., 2020), provide evidence that vaping or consumption of tobacco increases the risk of infection and progression of Covid-19.
 
-From (i) and (ii) we infer that smoking and alcohol increase the risk of cardio-vascular disease and mortality. From (iii) and (iv) we infer that having a history of cardiovascular disease or consuming tobacco, deteriorates the condition of patient upon contraction of Covid-19 and can be fatal. Thus, it is important to analyze whether the isolation during Covid-19 increased the consumption tobacco, alcohol and drugs or were people successful in quitting.
+From (i) and (ii) we infer that smoking and alcohol increase the risk of cardio-vascular disease and mortality. From (iii) and (iv) we infer that having a history of cardiovascular disease or consuming tobacco, deteriorates the condition of patient upon contraction of Covid-19 and can be fatal. Thus, it is important to analyze whether the isolation during Covid-19 increased the consumption tobacco, alcohol and illicit substances or were people successful in quitting.
 
 Execution/Procedure
 -----
-1. Mine the data from over 50 different subreddits that possibly resonate with the 4 broader groups (Drugs, Diet, Physical Activities & Smoking) using the pushshift API
+1. Mine the data from over 50 different subreddits that possibly resonate with the 4 broader groups (Diet, Physical Activities, Substance Use & Smoking) using the pushshift API
 2. Shortlist the subreddits based on number of posts, comments and members of subreddits
-3. Perform exploratory data analysis on the finalized 24 subreddits containing approximately 1 Million posts and 2.7 Million comments
+3. Perform exploratory data analysis on the finalized 22 subreddits containing approximately 1 Million posts and 2.7 Million comments
 4. Leverage [DLATK](http://dlatk.wwbp.org/index.html) package for Python to identify latent topics present in the posts and comments through Latent Dirichlet Allocation (LDA; Blei et al., 2003)
 5. Perform temporal analysis on the topics generated to record inference
 
