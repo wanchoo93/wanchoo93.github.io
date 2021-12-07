@@ -16,11 +16,15 @@ Prior to enrolling in the Master's program at UPenn I had worked with several of
 
 Research Interest
 -----
-I am interested in developing explainable deep learning solutions, in particular natural language processing, computer vision, robotics and Human-Computer Interaction. My ambition is to bring the dream of intelligent and autonomous systems closer to reality by leveraging multi-disciplinary research to study ideas from statistical physics, optimization, computer vision, control theory and motion-planning.
+I am interested in developing explainable deep learning solutions, in particular applications of natural language processing alone or in collaboration with computer vision, robotics and Human-Computer Interaction. My ambition is to bring the dream of intelligent and autonomous systems closer to reality by leveraging multi-disciplinary research.
 
 I am intrigued by those challenging research problems whose applications revolve around physical and mental well-being of the society. In my ongoing master’s thesis I aim to compare the health and lifestyle of people before and after the pandemic hit the world with special focus on risks associated with cardio-vascular disease using Natural Language Processing. More details about my ongoing Master's Thesis can be found [here](https://wanchoo93.github.io/teaching/2016-spring-teaching-3).
 
-I would love to develop systems that belong in (a) the intersection of natural language and computer vision and (b) developing scalable computational language models utilizing large-scale user generated text on social media platforms. For instance, creating a framework that can intelligently comprehend and interpret the driving environment visuals, recognize hazardous or abnormal scene and forecast the outcome in order to respond with utmost efficiency. This is equivalent to envisioning a smart machine utilizing image recognition and semantics to prevent locomotive crashes in real time. I believe that social media platforms such as Reddit and Twitter that are a rich ecological source of human interactions can offer large volumes of unbiased conversations that can be summarized using NLP.
+I would love to develop systems that belong in:
+* The intersection of natural language and computer vision:
+  * For instance creating a framework that can intelligently comprehend and interpret the driving environment visuals, recognize hazardous or abnormal scene and forecast the outcome in order to respond with utmost efficiency. This is equivalent to envisioning a smart machine utilizing image recognition and semantics to prevent locomotive crashes in real time
+* Developing scalable computational language models utilizing large-scale user generated text on social media platforms:
+  * I believe that social media platforms such as Reddit and Twitter that are a rich ecological source of human interactions can offer large volumes of unbiased conversations that can be summarized using NLP. They can help form targeted messaging and mitigation strategies especially during crises and public health emergencies
 
 
 Affiliations
