@@ -22,9 +22,12 @@ In VLN, the robot is given instructions and is expected to reach a goal by makin
 
 ### The two-fold objective to this problems: 
 1.  semantic grounding of language to predict semantic maps
-2.  spatial grounding of instructions to predict path to reach the goal.
+2.  spatial grounding of instructions to predict path to reach the goal
 
 We leveraged VLN-CE and Google Room-Across-Room datasets to test our Cross-model map learning algorithm.
 
 My Contribution
 ======
+1.  Created a multi-stream design that leverages cross-modal attention mechanism of transformers on egocentric maps
+2.  Semantic and spatial grounding of instructions to predict semantic maps and waypoints within Vision-and-Language Navigation in Continuous Environments (VLN-CE) setup
+3.  Identifying and masking parts of instruction that correspond to concepts such as motion, change in direction or localization to quantify the impact of navigation concepts on waypoint prediction
