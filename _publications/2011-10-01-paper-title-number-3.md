@@ -8,5 +8,5 @@ venue: 'submitted to CVPR 2022'
 paperurl: ''
 
 ---
-**Since the paper is under review with CVPR, a copy of the paper can be made available only upon request** 
+**Since the paper is under review with CVPR, a copy of the paper can be made available only upon request. My email can be found on the left navigation pane.**
 
