@@ -9,6 +9,7 @@ venue: 'submitted to CVPR-2022 (under review)'
 ---
 
 Authors: _Georgios Georgakis, Karl Schmeckpeper, Karan Wanchoo, Soham Dan, Eleni Miltsakaki, Dan Roth, Kostas Daniilidis_
+
 **Since the paper is under review with CVPR, a copy of the paper can be made available only upon request. My email can be found on the left navigation pane.**
 
 You can read more about the project [here](https://wanchoo93.github.io/teaching/2017-spring-teaching-4)
