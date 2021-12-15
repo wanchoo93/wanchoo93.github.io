@@ -8,7 +8,7 @@ venue: 'preparing for submission'
 
 ---
 
-Authors: _Karan Wanchoo, Matthew P. Abrams, Raina Merchant, Lyle H. Ungar, Sharath Chandra Guntuku_
+Authors: Anonymous authors. Paper under blind review
 
 **Since the paper is on the verge of completion, a copy of the paper can be made available only upon request. My email can be found on the left navigation pane.**
 
