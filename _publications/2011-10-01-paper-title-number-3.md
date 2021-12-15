@@ -8,7 +8,7 @@ venue: 'submitted to CVPR-2022 (under review)'
 
 ---
 
-Authors: _Georgios Georgakis, Karl Schmeckpeper, Karan Wanchoo, Soham Dan, Eleni Miltsakaki, Dan Roth, Kostas Daniilidis_
+Authors: Anonymous authors. Paper under blind review
 
 **Since the paper is under review with CVPR, a copy of the paper can be made available only upon request. My email can be found on the left navigation pane.**
 
