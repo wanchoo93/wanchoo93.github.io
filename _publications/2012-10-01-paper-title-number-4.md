@@ -5,6 +5,7 @@ permalink:
 excerpt: 'We compare the behavioral, social, and environmental determinants associated with cardiovascular (CV) health before and after the COVID-19 pandemic. We leverage the popular social media platform Reddit to analyze 1 million posts from 22 different communities (i.e., subreddits) that belong to four broader groups - diet, physical activity, substance use, and smoking from January 2019 to December 2020, using Natural Language Processing (NLP).'
 date: 2021-12-15
 venue: 'preparing for submission'
+authors: 'Karan Wanchoo, Matthew P. Abrams, Raina Merchant, Lyle H. Ungar, Sharath Chandra Guntuku'
 
 ---
 
