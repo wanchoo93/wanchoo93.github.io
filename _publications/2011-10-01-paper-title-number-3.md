@@ -8,8 +8,8 @@ venue: 'submitted to CVPR-2022 (under review)'
 
 ---
 
-Authors: Anonymous authors. Paper under blind review
+Authors: Georgios Georgakis, Karan Wanchoo, Karl Schmeckpeper, Soham Dan, Eleni Miltsakaki, Kostas Daniilidis
 
-**Since the paper is under review with CVPR, a copy of the paper can be made available only upon request. My email can be found on the left navigation pane.**
+Accepted to CVPR - 2022. I'll be posting the link to the paper soon!!!
 
 You can read more about the project [here](https://wanchoo93.github.io/teaching/2017-spring-teaching-4)
