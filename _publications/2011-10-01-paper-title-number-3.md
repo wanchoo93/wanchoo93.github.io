@@ -10,6 +10,6 @@ venue: 'submitted to CVPR-2022 (under review)'
 
 Authors: Georgios Georgakis, Karan Wanchoo, Karl Schmeckpeper, Soham Dan, Eleni Miltsakaki, Kostas Daniilidis
 
-Accepted to CVPR - 2022. I'll be posting the link to the paper soon!!!
+**Accepted to CVPR - 2022. I'll be posting the link to the paper soon!!!**
 
 You can read more about the project [here](https://wanchoo93.github.io/teaching/2017-spring-teaching-4)
