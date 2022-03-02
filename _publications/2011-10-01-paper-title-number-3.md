@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt: 'This paper proposes a cross-modal map learning model for vision-and-language navigation that first learns to predict the top-down semantics on an egocentric map for both observed and unobserved regions, and then predicts a path towards the goal as a set of way-points.'
 date: 2021-12-15
-venue: 'Accepted to CVPR - 2022'
+venue: 'CVPR - 2022'
 
 ---
 
