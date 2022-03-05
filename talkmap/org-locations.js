@@ -1,8 +1,9 @@
 var addressPoints = [
   [
     "Philadelphia PA, USA",
-    39.9526,
-    75.1652
+    75.1652,
+    39.9526
+    
   ]
 //   ],
 //   [
