@@ -8,8 +8,6 @@ venue: 'CVPR'
 
 ---
 
-Authors: Georgios Georgakis, Karan Wanchoo, Karl Schmeckpeper, Soham Dan, Eleni Miltsakaki, Kostas Daniilidis
+Authors: Georgios Georgakis, Karl Schmeckpeper, Karan Wanchoo, Soham Dan, Eleni Miltsakaki, Dan Roth, Kostas Daniilidis
 
-**Accepted to CVPR - 2022. I'll be posting the link to the paper soon!!!**
-
-You can read more about the project [here](https://wanchoo93.github.io/teaching/2017-spring-teaching-4)
+You can read more about the paper [here](https://arxiv.org/abs/2203.05137)
