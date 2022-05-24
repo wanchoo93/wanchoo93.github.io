@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Master of Science in Electrical Engineering, University of Pennsylvania, USA, 2020-2022 (expected)
+* Master of Science in Electrical Engineering, University of Pennsylvania, USA, 2020-2022
 * Bachelor of Engineering in Electrical Engineering, Punjab Engineering College, India, 2011-2015
 
 Publications
@@ -22,6 +22,7 @@ Publications
   
 Awards and Honors
 ======
+* Outstanding Research Award (May 2022)
 * Accenture Wizards@Work Award (June 2020)
 * Accenture SPOT Award (January 2020)
 * Director’s Recognition Award (July 2019)
