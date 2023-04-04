@@ -10,4 +10,4 @@ venue: 'CVPR'
 
 Authors: Georgios Georgakis, Karl Schmeckpeper, Karan Wanchoo, Soham Dan, Eleni Miltsakaki, Dan Roth, Kostas Daniilidis
 
-You can read more about the paper [here](https://arxiv.org/abs/2203.05137)
+You can read more about the paper [here](https://openaccess.thecvf.com/content/CVPR2022/papers/Georgakis_Cross-Modal_Map_Learning_for_Vision_and_Language_Navigation_CVPR_2022_paper.pdf)
