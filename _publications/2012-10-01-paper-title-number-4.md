@@ -8,8 +8,7 @@ venue: 'preparing for submission'
 
 ---
 
-Authors: Anonymous authors. Paper under blind review
+Authors: Karan Wanchoo, Matthew Abrams, Raina M. Merchant, Lyle Ungar, Sharath Chandra Guntuku
 
-**Since the paper is on the verge of completion, a copy of the paper can be made available only upon request. My email can be found on the left navigation pane.**
 
-You can read more about the project [here](https://wanchoo93.github.io/teaching/2016-spring-teaching-3)
+You can read the paper [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280337)
